@@ -17,8 +17,7 @@ You can access the website from this link;
 https://e-bikes.netlify.app/
 
 ## Screenshots
-![SS-1](https://user-images.githubusercontent.com/73755991/100870325-7e6e2180-34af-11eb-936e-3d2e24bd879c.JPG)
-![SS-2](https://user-images.githubusercontent.com/73755991/100870338-862dc600-34af-11eb-99e7-f65c652e1110.JPG)
+![SS](https://user-images.githubusercontent.com/73755991/100877216-8206a600-34b9-11eb-8436-6afda035ea49.png)
 
 ## Technologies
 * HTML
