@@ -1,5 +1,5 @@
 # E-Bikes
-> New generation bikes' website.
+> New generation bikes' landing page.
 
 ## Table of contents
 * [General info](#general-info)
